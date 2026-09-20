@@ -37,6 +37,7 @@
 
 ## Efficiency
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 - [百度脑图](http://naotu.baidu.com/) - 控制创意，如此简单，在线编辑脑图
 - [幕布](https://mubu.com/) - 整理结构化的内容，构建清晰的思维逻辑
 
