@@ -21,6 +21,7 @@
 - [Iconfont](http://www.iconfont.cn/) - Iconfont-阿里巴巴矢量图标库
 - [tinypng](https://tinypng.com/) - Smart PNG and JPEG compression
 - [ILoveIMG](http://www.iloveimg.com/) - every tool you could want to edit images
+- [FileOnTap](https://fileontap.com/) - Free browser-local File Converter for images and PDFs (HEIC/WebP/PNG/JPG↔PDF); files never leave your device
 
 ## MarkDown
 
