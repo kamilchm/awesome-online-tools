@@ -14,6 +14,7 @@
 
 ## Graphic
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Browser image compressor and converter (PNG/JPG/HEIC/WebP/AVIF); files stay on-device for the core workflow
 - [智图](https://zhitu.isux.us/) - 图片压缩，支持 webp
 - [图好快](http://www.tuhaokuai.com/) - 图片压缩、格式转换
 - [ezGIF](http://ezgif.com/) - Online GIF maker and image editor
